@@ -1,30 +1,61 @@
-<h2>Hello !! I'm Aditya Rauniyar</h2>
-#ABOUT ME:
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
+<h1 align="center">Hi 👋, I'm Aditya Rauniyar!</h1>
+<h3 align="center">A Passionate Full Stack Developer from India
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
 
-I am Aditya Rauniyar, a passionate Information Technology student at Raj Kumar Goel Institute of<br>Technology, Ghaziabad. Currently pursuing my Bachelor's degree.<br>I have extensive knowledge in a wide array of topics. I am proficient in HTML, CSS, Bootstrap, Java Script, Python and Java. I have some experience with c++ and further exploration of MERN. My proficiency in tools such as Github, Canva, Adobe photoshop, Power BI and MS Excel.<br><br>I also had the opportunity to engage in a virtual internship with pregred, from December 2023 to February 2024. During this tenure, I gained essential testing skills, developing and executing comprehensive test plans for software updates. My focus on ensuring product stability and quality was instrumental in contributing to the success of the team.<br><br>I am constantly learning and adopting to new information and context, making me a valuable resource for variety of projects and tasks. So Let's connect and explore the world of tech together!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-rauniyar-762618297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityarauniyar.tech@gmail.com) 
+* 🎓  I'm currently pursuing a B.Tech in Information Technology.
+* ✉️  You can contact me at [adityarauniyar.tech@gmail.com](mailto:adityarauniyar.tech@gmail.com)
+* ✨️ My best work till now  [IntervueAI](https://intervueai-io.vercel.app)
+* 🚀 Interested in future tech.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Skills
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="46" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" width="50" height="48" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="50" height="48" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" width="50" height="48" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="50" height="48" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/react-native.png" width="50" height="48" alt="React.js" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**adityarauniyar-ux/adityarauniyar-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Backend -->
+  <img src="https://img.icons8.com/fluency/48/node-js.png" width="50" height="48" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="52" height="50" alt="Java" />
+  <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="42" height="40" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="50" height="48" alt="MongoDB" />
 
-Here are some ideas to get you started:
+  <!-- Tools & Platforms -->
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="54" height="47" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/git.png" width="50" height="48" alt="Git" />
+  <img src="https://img.icons8.com/color/48/github--v1.png" width="50" height="48" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/visual-studio.png" width="50" height="48" alt="Visual Studio" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</p> 
+  
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h3 align="left">Connect with me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-rauniyar-762618297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Rauniyar" height="26" width="35" /></a>
+<a href="https://instagram.com/_aditya.rauniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
+<a href="mailto:adityarauniyar.tech@gmail.com" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/2/Email-PNG-File-Download-Free.png" alt="adityarauniyar" height="30" width="40" /></a>
+</p>
+
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
